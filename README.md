@@ -1,2 +1,3 @@
-# dotfiles
-My humble beginnings using dotfiles.
+# Dotfiles
+
+My humble start using dotfiles.
